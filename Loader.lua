@@ -1,6 +1,5 @@
--- Loader.lua
-local repo = "https://raw.githubusercontent.com/SeuUsuario/SeuRepo/main/"
-
+-- loader
+local repo = "https://raw.githubusercontent.com/Alezinho157/UniversalRobloxGUI/main/"
 -- Configuração
 loadstring(game:HttpGet(repo.."Config.lua"))()
 
